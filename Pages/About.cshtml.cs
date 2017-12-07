@@ -12,7 +12,7 @@ namespace aspnetcoreapp.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "This is an example project to learn ASP.net .";
         }
     }
 }
